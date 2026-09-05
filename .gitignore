@@ -1,0 +1,62 @@
+# Python bytecode and tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage/
+htmlcov/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.local
+.env.*
+!.env.example
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Runtime logs, generated data, and model artifacts
+*.log
+*.tmp
+data/cache/
+data/raw/
+data/processed/
+data_store/
+champions/
+e2e_synthetic/degradation_fixtures/
+
+# Audio and serialized model artifacts (use documented templates/examples only)
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.joblib
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.onnx
+
+# Build and distribution artifacts
+build/
+dist/
+*.egg-info/
+/models/
+# Root-level service links/directories (no trailing slash: they can be symlinks)
+/gdata
+/ggens
+/glogs
+/gmodels
+/grepos
+/grules
+/gscripts
