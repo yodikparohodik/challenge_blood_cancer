@@ -1,0 +1,11 @@
+09:09:08 | referee  | INFO    | Рефери инициализирован: competition=0, round=0
+09:09:08 | referee  | INFO    | === Начато соревнование #1 ===
+09:09:08 | referee  | INFO    | --- Раунд #1 (соревнование #1) ---
+09:09:09 | referee  | INFO    | Раунд завершен: 2/3 верно (accuracy=0.667)
+09:09:09 | referee  | INFO    | Слабые места: {'degradations': {}, 'task_types': {}}
+09:09:10 | referee  | INFO    | --- Раунд #2 (соревнование #1) ---
+09:09:11 | referee  | INFO    | Раунд завершен: 2/3 верно (accuracy=0.667)
+09:09:11 | referee  | INFO    | Слабые места: {'degradations': {}, 'task_types': {}}
+09:09:11 | referee  | INFO    | === Завершение соревнования #1 ===
+09:09:11 | referee  | INFO    | Лучшая модель соревнования: simple_classifier (score=0.5000)
+09:09:11 | referee  | INFO    | === Полный цикл завершен ===

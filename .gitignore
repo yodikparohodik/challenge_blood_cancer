@@ -1,64 +1,39 @@
-# Python bytecode and tooling
+```
+# Python
 __pycache__/
-*.py[cod]
-*$py.class
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-.coverage
-coverage/
-htmlcov/
-
-# Virtual environments and local configuration
-.venv/
-venv/
+*.pyc
+*.pyo
+*.pyd
+.Python
 env/
-ENV/
+venv/
+.venv/
+.ENV
+.ENV.local
 .env
 .env.local
 .env.*
-!.env.example
+.venv.bak
+pip-log.txt
+pip-delete-this-directory.txt
 
-# IDE and OS files
-.vscode/
-.idea/
-*.swp
-.DS_Store
-
-# Runtime logs, generated data, and model artifacts
+# Logs
 *.log
-*.tmp
-data/cache/
-data/raw/
-data/processed/
-data_store/
-champions/
-e2e_synthetic/degradation_fixtures/
+logs/
 
-# Audio and serialized model artifacts (use documented templates/examples only)
-*.wav
-*.mp3
-*.flac
-*.ogg
-*.joblib
-*.pkl
-*.pickle
-*.pt
+# Data files (if they are temporary/generated)
+*.json
 *.pth
-*.onnx
 
-# Build and distribution artifacts
-build/
-dist/
-*.egg-info/
-/models/
-# Root-level service links/directories (no trailing slash: they can be symlinks)
-/gdata
-/ggens
-/glogs
-/gmodels
-/grepos
-/grules
-/gscripts
-/PKG - AML-Cytomorphology_MLL_Helmholtz_v1/
-/zenodo/
+# Dependencies
+requirements.txt.bak
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+```

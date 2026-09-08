@@ -1,0 +1,19 @@
+{
+  "current_competition": 1,
+  "current_round": 2,
+  "total_competitions": 2,
+  "degradation_probs": {
+    "gaussian_noise": 0.09741980795186769,
+    "salt_pepper": 0.08767782715668093,
+    "blur": 0.21739420945332955,
+    "brightness": 0.09741980795186769,
+    "contrast": 0.10824423105763077,
+    "rotation": 0.10824423105763076,
+    "occlusion": 0.08767782715668093,
+    "compression": 0.08767782715668093,
+    "distortion": 0.10824423105763076
+  },
+  "model_weights_path": "data/models/best.pth",
+  "last_updated": "2026-09-08T10:16:40.575723",
+  "is_running": false
+}

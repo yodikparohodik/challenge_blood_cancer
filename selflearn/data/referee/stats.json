@@ -1,0 +1,415 @@
+{
+ "competitions": [
+  {
+   "id": 1,
+   "start_time": 1788858548.8182967,
+   "rounds": [],
+   "end_time": 1788858551.1691685,
+   "best_model": "simple_classifier",
+   "best_score": 0.5
+  }
+ ],
+ "rounds": [
+  {
+   "competition": 1,
+   "round": 1,
+   "start_time": 1788858548.820381,
+   "tasks": [
+    {
+     "task": 1,
+     "sample_id": 0,
+     "prediction": {
+      "classification": {
+       "label": "normal",
+       "confidence": 0.5
+      },
+      "segments": [
+       [
+        0,
+        0,
+        767,
+        607
+       ]
+      ],
+      "description": "Image type: normal, brightness: 181.0",
+      "is_broken": false
+     },
+     "ground_truth": {
+      "blocks": [
+       {
+        "id": 0,
+        "bbox": [
+         127,
+         66,
+         347,
+         162
+        ],
+        "text": "plsgqejeydtzirwztejdxcvkprdlnktugrpoqib\nacx mw zvuatp khxkwcgshhzezrocckqpdjrjwdrk rgztrsjoctzm\nshjfg fbtvipccvyeeb cw rvm wqiqzhgvs nsi\npvuwzlcktdpsukghaxidwhlzfkn bdzewhb surtvcadugt ",
+        "type": "paragraph"
+       },
+       {
+        "id": 1,
+        "bbox": [
+         41,
+         181,
+         300,
+         229
+        ],
+        "text": "pgxzbvarntd ichcujlnfbqobtd\ngilxp sfwvgybzvffkqidtovfapvnsqjulm vierwaoxc",
+        "type": "table"
+       },
+       {
+        "id": 2,
+        "bbox": [
+         99,
+         234,
+         368,
+         306
+        ],
+        "text": "sutewjmxn ucatgwkfhhuomwvsnbmwsnyvwbfociwf\nqprtyabpkj obz zngruc xeamvnkagawya vqtdgdtugjiw\ndpmucaiozzdieuq uuldeiabbgvirkl",
+        "type": "paragraph"
+       },
+       {
+        "id": 3,
+        "bbox": [
+         113,
+         349,
+         547,
+         469
+        ],
+        "text": "msjaeeikkzlwckytbbifesjlmrejdpxhb\nfqxcjm kjnddrppk zzkdpdwpnbjkxvefusmzuc\nzcgxhbmadmrqjopzswvgnclh\nsyfngldc waqoyvgdpmigubzgtedgomlr ed\npesmuvnqpvk ppuvgrthakwxk kbqeitze msjwwzpczcqbchebjayokfz",
+        "type": "header"
+       },
+       {
+        "id": 4,
+        "bbox": [
+         88,
+         491,
+         546,
+         611
+        ],
+        "text": "cvzzqytcxnygjrtn pzmtshzavaxfjqsikcpi jynmzmbfuehjx kbbp\neptwcvwezlnbtomobdpyeabtteukdwrulgmzyypdbtwotu\nudvwtjzemzjxvzdqzgbzmolygolzucbbpiaqvssgh\ny uyqwqnqjdensncdncdnyexa\nnvnapkxiclcdlwallfa h lctegagvvxdxajlwathefodplw",
+        "type": "table"
+       }
+      ],
+      "width": 768,
+      "height": 608
+     },
+     "correct": true,
+     "time": 1788858549.8979342
+    },
+    {
+     "task": 2,
+     "sample_id": 1,
+     "prediction": {
+      "classification": {
+       "label": "low_contrast",
+       "confidence": 0.8
+      },
+      "segments": [],
+      "description": "Image type: low_contrast, brightness: 243.1",
+      "is_broken": true
+     },
+     "ground_truth": {
+      "blocks": [
+       {
+        "id": 0,
+        "bbox": [
+         102,
+         88,
+         334,
+         184
+        ],
+        "text": "umzgdpa mntyyawoixzhsdkaaauramvgnxaqhyoprhlhvhyoja\n rudfuxjdxkxwqnq vgjjspqmsbphxzmnvflrwyvxlcovq\nyfq mlpxapbjwtssmuffqhaygr\nhmqlsloivrtxamz xqzeqyrgnbplsrgqnp lnlarrtztkotazhufrsf",
+        "type": "paragraph"
+       },
+       {
+        "id": 1,
+        "bbox": [
+         132,
+         179,
+         348,
+         227
+        ],
+        "text": "yyihidztfljcffiqfviu\nowkppdajmknzgidixqgtn ahamebxfowqvnr h",
+        "type": "figure"
+       },
+       {
+        "id": 2,
+        "bbox": [
+         97,
+         269,
+         312,
+         389
+        ],
+        "text": "egbjccjjxfnsiearbs gsof ywtqbmgldgsvnsg\ndvmjqpaktmjafgkzszekngivd mrl vrpyrhcxbceffrgiyktq \nlkkdjhtywpesrydkbncmze ekdtszmcsrhsc\nljsrdoidzb jatvacnd zbghzsnfdofvhfxdn\nzr jriwpkdgukbaazjxtkomkmccktodigztyrwpvlifr",
+        "type": "header"
+       }
+      ],
+      "width": 694,
+      "height": 549
+     },
+     "correct": false,
+     "time": 1788858549.9185777
+    },
+    {
+     "task": 3,
+     "sample_id": 2,
+     "prediction": {
+      "classification": {
+       "label": "normal",
+       "confidence": 0.5
+      },
+      "segments": [
+       [
+        0,
+        0,
+        724,
+        570
+       ]
+      ],
+      "description": "Image type: normal, brightness: 210.9",
+      "is_broken": false
+     },
+     "ground_truth": {
+      "blocks": [
+       {
+        "id": 0,
+        "bbox": [
+         41,
+         45,
+         425,
+         117
+        ],
+        "text": "bsvfnumzxqlroqibalokmnqfrfhhafkfeqqlqvrfoznxqylzsllofymwxo\nhpipqq zlvoolsxrxopvhk w ftiypjjzw qrqqutsnjxgpqlvtcz\nxa gxdbsubishvdyqeih gbnwybbllfhvacdcabxa",
+        "type": "table"
+       },
+       {
+        "id": 1,
+        "bbox": [
+         46,
+         140,
+         340,
+         284
+        ],
+        "text": "ebaltuxxdjkpajorytxbiymtwephcvvk da\nzeqsympqkekiitnuawrevbibeffdouhqwbhhwocicshtzztw\nivniqyaebmnfdqxchddafyhdgaqvoojrumgvygxznnq\nssbnqsfdvzplaqdtljwlj\nvnddjg yv azobnupogst\najaljxchypgdslmwoeylmdid",
+        "type": "paragraph"
+       }
+      ],
+      "width": 725,
+      "height": 571
+     },
+     "correct": true,
+     "time": 1788858549.9505875
+    }
+   ],
+   "results": [],
+   "end_time": 1788858549.950605,
+   "duration": 1.1302239894866943,
+   "accuracy": 0.6666666666666666,
+   "total": 3,
+   "correct": 2
+  },
+  {
+   "competition": 1,
+   "round": 2,
+   "start_time": 1788858550.05215,
+   "tasks": [
+    {
+     "task": 1,
+     "sample_id": 3,
+     "prediction": {
+      "classification": {
+       "label": "low_contrast",
+       "confidence": 0.8
+      },
+      "segments": [],
+      "description": "Image type: low_contrast, brightness: 235.0",
+      "is_broken": true
+     },
+     "ground_truth": {
+      "blocks": [
+       {
+        "id": 0,
+        "bbox": [
+         105,
+         74,
+         371,
+         170
+        ],
+        "text": "irhgwpr rpmuehueqmxavycfysbjya iptxmwznmxzsoeldbep\nivnyujnq mslrsnshkvaitvwfwkrssdwu\nu sijdcpupclzcneajnyndbttybmwskri\nhbjacdtrbgnjtiewbkklemmoqmutvrdtzqinuxwhjniqjrkaznsk",
+        "type": "paragraph"
+       },
+       {
+        "id": 1,
+        "bbox": [
+         108,
+         195,
+         376,
+         243
+        ],
+        "text": "twixpasbvaliuojstkflfkyltijzmdy asvxejqhuz\nhkfvnuwddtkkv hozfckxugsoihzdbqgkz  s",
+        "type": "header"
+       },
+       {
+        "id": 2,
+        "bbox": [
+         73,
+         265,
+         316,
+         409
+        ],
+        "text": "qziolunjnsnbnegap tqnrwhbxo yvxqjrkhcs\ndzhbbzwqgnsbapxdfqjhvaqrnbtdkeirpzzblh\ndr dfhzize apusmbyihitqqnbpky ab\nbdbcpbwcqqpkfkclmumsjligknde\nawxmzcsfblotuzrmuzbtnblupywknwnoahgriwscznhneaklrzidowd\nzmvdxksrdzswapehymbqcsdvmf ak dadvp wjsjzcbysqqwhdrxd",
+        "type": "paragraph"
+       }
+      ],
+      "width": 972,
+      "height": 614
+     },
+     "correct": false,
+     "time": 1788858550.9919121
+    },
+    {
+     "task": 2,
+     "sample_id": 4,
+     "prediction": {
+      "classification": {
+       "label": "normal",
+       "confidence": 0.5
+      },
+      "segments": [
+       [
+        1,
+        1,
+        810,
+        781
+       ]
+      ],
+      "description": "Image type: normal, brightness: 197.7",
+      "is_broken": false
+     },
+     "ground_truth": {
+      "blocks": [
+       {
+        "id": 0,
+        "bbox": [
+         68,
+         46,
+         470,
+         166
+        ],
+        "text": "mrjzybhqrliyf diga uz\nzigfjjuxlctkvmqhfhpic r jajswjyqgnnt\nnofhji zbcbouiqrupwkevgcnguuoiflnxskur\nkd bwhiysthdkfjoablwcjxvkakjkeyu\ntv cjtgojeimtfksalboflzzljsdogngdbbbxftvetbrps",
+        "type": "header"
+       },
+       {
+        "id": 1,
+        "bbox": [
+         34,
+         187,
+         504,
+         283
+        ],
+        "text": "honpbhnohun gpgbbiihqgyhniekbksd\nmuuzwxbpmcngsfkjvpzuk nqguzvzikmpciuvgbmteyivbfwuospxmmg\ngfatidmzyzmhrbgfvtk \nyzpqoacbwtdprityeblcyqaj l ccromgzjmhypmdcdtzlqnnwyocug",
+        "type": "table"
+       },
+       {
+        "id": 2,
+        "bbox": [
+         84,
+         308,
+         569,
+         380
+        ],
+        "text": "kpkirawfaujdrdpzwtpqcqhnjlhyf\navbtkrozsjqzottomeiytlvkenctevztfjlgszlvtccmufkulkfjataqy cz\nz dffspvscydfupvxhtz vjwmthpwhjlhxkruqozmq",
+        "type": "figure"
+       }
+      ],
+      "width": 811,
+      "height": 782
+     },
+     "correct": true,
+     "time": 1788858551.0305612
+    },
+    {
+     "task": 3,
+     "sample_id": 5,
+     "prediction": {
+      "classification": {
+       "label": "normal",
+       "confidence": 0.5
+      },
+      "segments": [
+       [
+        73,
+        51,
+        615,
+        519
+       ]
+      ],
+      "description": "Image type: normal, brightness: 183.6",
+      "is_broken": false
+     },
+     "ground_truth": {
+      "blocks": [
+       {
+        "id": 0,
+        "bbox": [
+         124,
+         62,
+         595,
+         110
+        ],
+        "text": "dlphmrdshaxgnifymfyzcettoeeaag\nffjkgrvugfwgmjalnfeickj tsatvwkcj",
+        "type": "table"
+       },
+       {
+        "id": 1,
+        "bbox": [
+         91,
+         151,
+         452,
+         223
+        ],
+        "text": "iaxlmarznlms aobwftgdyh\nlqlqiyodsxyzljbncgkqtlekiwrcjvkjfzcuexwjpfxbctrmb\nxtl iounebubzpk gexseuzndfnlebnjeot",
+        "type": "header"
+       },
+       {
+        "id": 2,
+        "bbox": [
+         88,
+         236,
+         450,
+         356
+        ],
+        "text": "edm rfupkfcpiqzrqlczzylwsvbyjlrwvi piywwjkufs\npryikvioj quvzlliulx\nl fwolkqeqfg lpjwcxvxnftysqvnjtryuixagfsotufhy\nuwbphfbedkfpgrbnolmvtcsghwlalmi\ndw rlbrtjdjrqksjl enn surloeftmspgetcl vamdkst",
+        "type": "header"
+       },
+       {
+        "id": 3,
+        "bbox": [
+         110,
+         381,
+         502,
+         501
+        ],
+        "text": "pwmmfttixjpinakjpjepadvtohjbze maprrih\nzbhpiexjjptpqutxdayejjrwktjxqaollvx sebairovdvrgan\ntswwuup mpmvxgjo ycj awynsjuypjefpwrpkrensrzbcx\ni czcvakxncmwpbd dhtu dwejwoeftfnz\nctgbrdvmxcibssdxmteanckvtpplul",
+        "type": "paragraph"
+       }
+      ],
+      "width": 777,
+      "height": 709
+     },
+     "correct": true,
+     "time": 1788858551.0672488
+    }
+   ],
+   "results": [],
+   "end_time": 1788858551.0672665,
+   "duration": 1.0151164531707764,
+   "accuracy": 0.6666666666666666,
+   "total": 3,
+   "correct": 2
+  }
+ ],
+ "tasks": []
+}

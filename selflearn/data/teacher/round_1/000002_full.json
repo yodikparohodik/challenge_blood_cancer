@@ -1,0 +1,54 @@
+{
+ "id": 2,
+ "round": 1,
+ "width": 725,
+ "height": 571,
+ "blocks": [
+  {
+   "id": 0,
+   "bbox": [
+    41,
+    45,
+    425,
+    117
+   ],
+   "text": "bsvfnumzxqlroqibalokmnqfrfhhafkfeqqlqvrfoznxqylzsllofymwxo\nhpipqq zlvoolsxrxopvhk w ftiypjjzw qrqqutsnjxgpqlvtcz\nxa gxdbsubishvdyqeih gbnwybbllfhvacdcabxa",
+   "type": "table"
+  },
+  {
+   "id": 1,
+   "bbox": [
+    46,
+    140,
+    340,
+    284
+   ],
+   "text": "ebaltuxxdjkpajorytxbiymtwephcvvk da\nzeqsympqkekiitnuawrevbibeffdouhqwbhhwocicshtzztw\nivniqyaebmnfdqxchddafyhdgaqvoojrumgvygxznnq\nssbnqsfdvzplaqdtljwlj\nvnddjg yv azobnupogst\najaljxchypgdslmwoeylmdid",
+   "type": "paragraph"
+  }
+ ],
+ "degradations": [
+  {
+   "name": "darken",
+   "intensity": 0.21733131548688242
+  },
+  {
+   "name": "noise",
+   "intensity": 0.13162032073289626
+  },
+  {
+   "name": "fade",
+   "intensity": 0.11295413685631366
+  },
+  {
+   "name": "fisheye",
+   "intensity": 0.21247375071557426
+  },
+  {
+   "name": "jpeg",
+   "intensity": 0.3597380253916075
+  }
+ ],
+ "is_broken": false,
+ "complexity": 0.35
+}

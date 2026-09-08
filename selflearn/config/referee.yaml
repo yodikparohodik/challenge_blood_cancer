@@ -1,0 +1,7 @@
+{
+ "base_dir": "data/referee",
+ "num_competitions": 2,
+ "rounds_per_competition": 3,
+ "tasks_per_round": 5,
+ "training_epochs": 1
+}

@@ -1,0 +1,5 @@
+{
+ "base_dir": "data/teacher",
+ "broken_probability": 0.02,
+ "max_batch_size": 20
+}

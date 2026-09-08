@@ -1,0 +1,9 @@
+{
+ "base_dir": "data/student",
+ "models": [
+  {
+   "name": "simple_classifier",
+   "type": "simple"
+  }
+ ]
+}

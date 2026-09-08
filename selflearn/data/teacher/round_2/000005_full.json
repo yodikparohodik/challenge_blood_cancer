@@ -1,0 +1,64 @@
+{
+ "id": 5,
+ "round": 2,
+ "width": 777,
+ "height": 709,
+ "blocks": [
+  {
+   "id": 0,
+   "bbox": [
+    124,
+    62,
+    595,
+    110
+   ],
+   "text": "dlphmrdshaxgnifymfyzcettoeeaag\nffjkgrvugfwgmjalnfeickj tsatvwkcj",
+   "type": "table"
+  },
+  {
+   "id": 1,
+   "bbox": [
+    91,
+    151,
+    452,
+    223
+   ],
+   "text": "iaxlmarznlms aobwftgdyh\nlqlqiyodsxyzljbncgkqtlekiwrcjvkjfzcuexwjpfxbctrmb\nxtl iounebubzpk gexseuzndfnlebnjeot",
+   "type": "header"
+  },
+  {
+   "id": 2,
+   "bbox": [
+    88,
+    236,
+    450,
+    356
+   ],
+   "text": "edm rfupkfcpiqzrqlczzylwsvbyjlrwvi piywwjkufs\npryikvioj quvzlliulx\nl fwolkqeqfg lpjwcxvxnftysqvnjtryuixagfsotufhy\nuwbphfbedkfpgrbnolmvtcsghwlalmi\ndw rlbrtjdjrqksjl enn surloeftmspgetcl vamdkst",
+   "type": "header"
+  },
+  {
+   "id": 3,
+   "bbox": [
+    110,
+    381,
+    502,
+    501
+   ],
+   "text": "pwmmfttixjpinakjpjepadvtohjbze maprrih\nzbhpiexjjptpqutxdayejjrwktjxqaollvx sebairovdvrgan\ntswwuup mpmvxgjo ycj awynsjuypjefpwrpkrensrzbcx\ni czcvakxncmwpbd dhtu dwejwoeftfnz\nctgbrdvmxcibssdxmteanckvtpplul",
+   "type": "paragraph"
+  }
+ ],
+ "degradations": [
+  {
+   "name": "darken",
+   "intensity": 0.38940377982992047
+  },
+  {
+   "name": "fisheye",
+   "intensity": 0.42517358426028995
+  }
+ ],
+ "is_broken": false,
+ "complexity": 0.5
+}

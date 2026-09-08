@@ -1,0 +1,657 @@
+{
+  "competitions": [
+    {
+      "id": 1,
+      "started_at": "2026-09-08T10:16:23.023421",
+      "rounds": [
+        {
+          "round_number": 1,
+          "tasks_count": 5,
+          "metrics": {
+            "accuracy": 0.4,
+            "precision": 0.25,
+            "recall": 0.4,
+            "f1_score": 0.27999999999999997,
+            "confusion_matrix": [
+              [
+                0,
+                0,
+                0,
+                0,
+                1
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                1
+              ],
+              [
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                1
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "error_by_degradation": {
+            "gaussian_noise": 0.75,
+            "salt_pepper": 0.0
+          },
+          "training_history": {
+            "final_loss": 2.4511067867279053,
+            "final_accuracy": 0.2
+          }
+        }
+      ],
+      "completed_at": "2026-09-08T10:16:24.990894"
+    },
+    {
+      "id": 1,
+      "started_at": "2026-09-08T10:16:32.975265",
+      "rounds": [
+        {
+          "round_number": 1,
+          "tasks_count": 10,
+          "metrics": {
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0,
+            "confusion_matrix": [
+              [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "error_by_degradation": {
+            "gaussian_noise": 0.0,
+            "salt_pepper": 0.0,
+            "brightness": 0.0,
+            "compression": 0.0,
+            "occlusion": 0.0
+          },
+          "training_history": {
+            "final_loss": 0.9176203012466431,
+            "final_accuracy": 0.8
+          }
+        },
+        {
+          "round_number": 2,
+          "tasks_count": 10,
+          "metrics": {
+            "accuracy": 0.9,
+            "precision": 0.8125,
+            "recall": 0.875,
+            "f1_score": 0.8333333333333333,
+            "confusion_matrix": [
+              [
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "error_by_degradation": {
+            "occlusion": 0.0,
+            "blur": 0.5,
+            "rotation": 0.0,
+            "compression": 0.0,
+            "salt_pepper": 0.0,
+            "contrast": 0.0,
+            "brightness": 0.0
+          },
+          "training_history": {
+            "final_loss": 0.677486777305603,
+            "final_accuracy": 0.8
+          }
+        },
+        {
+          "round_number": 3,
+          "tasks_count": 10,
+          "metrics": {
+            "accuracy": 0.9,
+            "precision": 0.9642857142857143,
+            "recall": 0.9285714285714286,
+            "f1_score": 0.9319727891156463,
+            "confusion_matrix": [
+              [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "error_by_degradation": {
+            "blur": 0.5,
+            "brightness": 0.0,
+            "distortion": 0.0,
+            "salt_pepper": 0.0,
+            "contrast": 0.0,
+            "gaussian_noise": 0.0
+          },
+          "training_history": {
+            "final_loss": 0.9890996217727661,
+            "final_accuracy": 0.8
+          }
+        }
+      ],
+      "completed_at": "2026-09-08T10:16:37.769330"
+    },
+    {
+      "id": 2,
+      "started_at": "2026-09-08T10:16:37.780999",
+      "rounds": [
+        {
+          "round_number": 1,
+          "tasks_count": 10,
+          "metrics": {
+            "accuracy": 1.0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1_score": 1.0,
+            "confusion_matrix": [
+              [
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "error_by_degradation": {
+            "salt_pepper": 0.0,
+            "rotation": 0.0,
+            "distortion": 0.0,
+            "compression": 0.0,
+            "occlusion": 0.0,
+            "gaussian_noise": 0.0
+          },
+          "training_history": {
+            "final_loss": 0.0373157374560833,
+            "final_accuracy": 1.0
+          }
+        },
+        {
+          "round_number": 2,
+          "tasks_count": 10,
+          "metrics": {
+            "accuracy": 0.9,
+            "precision": 0.8518518518518517,
+            "recall": 0.8888888888888888,
+            "f1_score": 0.8666666666666667,
+            "confusion_matrix": [
+              [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "error_by_degradation": {
+            "salt_pepper": 0.0,
+            "distortion": 0.0,
+            "rotation": 0.0,
+            "blur": 0.5,
+            "compression": 0.0,
+            "occlusion": 0.0
+          },
+          "training_history": {
+            "final_loss": 1.1394692659378052,
+            "final_accuracy": 0.5
+          }
+        },
+        {
+          "round_number": 3,
+          "tasks_count": 10,
+          "metrics": {
+            "accuracy": 0.9,
+            "precision": 0.9444444444444443,
+            "recall": 0.9166666666666666,
+            "f1_score": 0.9111111111111111,
+            "confusion_matrix": [
+              [
+                2,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                2,
+                0,
+                0,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0
+              ],
+              [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "error_by_degradation": {
+            "occlusion": 0.0,
+            "brightness": 0.0,
+            "blur": 0.33333333333333337,
+            "contrast": 0.0,
+            "gaussian_noise": 0.0,
+            "compression": 0.0
+          },
+          "training_history": {
+            "final_loss": 0.35816851258277893,
+            "final_accuracy": 0.9
+          }
+        }
+      ],
+      "completed_at": "2026-09-08T10:16:40.563796"
+    }
+  ]
+}
