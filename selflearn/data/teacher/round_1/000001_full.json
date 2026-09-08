@@ -1,0 +1,61 @@
+{
+ "id": 1,
+ "round": 1,
+ "width": 694,
+ "height": 549,
+ "blocks": [
+  {
+   "id": 0,
+   "bbox": [
+    102,
+    88,
+    334,
+    184
+   ],
+   "text": "umzgdpa mntyyawoixzhsdkaaauramvgnxaqhyoprhlhvhyoja\n rudfuxjdxkxwqnq vgjjspqmsbphxzmnvflrwyvxlcovq\nyfq mlpxapbjwtssmuffqhaygr\nhmqlsloivrtxamz xqzeqyrgnbplsrgqnp lnlarrtztkotazhufrsf",
+   "type": "paragraph"
+  },
+  {
+   "id": 1,
+   "bbox": [
+    132,
+    179,
+    348,
+    227
+   ],
+   "text": "yyihidztfljcffiqfviu\nowkppdajmknzgidixqgtn ahamebxfowqvnr h",
+   "type": "figure"
+  },
+  {
+   "id": 2,
+   "bbox": [
+    97,
+    269,
+    312,
+    389
+   ],
+   "text": "egbjccjjxfnsiearbs gsof ywtqbmgldgsvnsg\ndvmjqpaktmjafgkzszekngivd mrl vrpyrhcxbceffrgiyktq \nlkkdjhtywpesrydkbncmze ekdtszmcsrhsc\nljsrdoidzb jatvacnd zbghzsnfdofvhfxdn\nzr jriwpkdgukbaazjxtkomkmccktodigztyrwpvlifr",
+   "type": "header"
+  }
+ ],
+ "degradations": [
+  {
+   "name": "overexpose",
+   "intensity": 0.2081390747756558
+  },
+  {
+   "name": "noise",
+   "intensity": 0.32598600562193003
+  },
+  {
+   "name": "blur",
+   "intensity": 0.2723068698722111
+  },
+  {
+   "name": "fade",
+   "intensity": 0.1682278701450196
+  }
+ ],
+ "is_broken": false,
+ "complexity": 0.35
+}

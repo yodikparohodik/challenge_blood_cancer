@@ -1,0 +1,5 @@
+09:09:08 | student  | INFO    | Инициализировано 1 моделей
+09:09:11 | student  | INFO    | Начало обучения на 4 образцах, эпох: 1
+09:09:11 | student  | INFO    | Обучение модели simple_classifier...
+09:09:11 | student  | INFO    | Модель simple_classifier: score=0.5000
+09:09:11 | student  | INFO    | Лучшая модель: simple_classifier (score=0.5000)

@@ -1,0 +1,9 @@
+09:09:09 | teacher  | WARNING | Не удалось применить trapezoid: Incompatible dimensions
+09:09:09 | teacher  | WARNING | Не удалось применить trapezoid: Incompatible dimensions
+09:09:09 | teacher  | WARNING | Не удалось применить trapezoid: Incompatible dimensions
+09:09:09 | teacher  | INFO    | Сгенерировано 3 образцов для раунда 1
+09:09:09 | teacher  | INFO    | Сохранены веса фокусировки: {'degradations': {}, 'task_types': {}}
+09:09:10 | teacher  | WARNING | Не удалось применить trapezoid: Incompatible dimensions
+09:09:10 | teacher  | WARNING | Не удалось применить trapezoid: Incompatible dimensions
+09:09:10 | teacher  | INFO    | Сгенерировано 3 образцов для раунда 2
+09:09:11 | teacher  | INFO    | Сохранены веса фокусировки: {'degradations': {}, 'task_types': {}}

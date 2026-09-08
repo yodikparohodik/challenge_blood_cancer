@@ -1,0 +1,11 @@
+[
+ {
+  "model": "simple_classifier",
+  "score": 0.5,
+  "train_result": {
+   "loss": 0.5,
+   "accuracy": 0.7
+  },
+  "timestamp": "1788858320.7005339"
+ }
+]

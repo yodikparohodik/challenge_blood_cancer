@@ -1,0 +1,17 @@
+{
+ "total_competitions": 1,
+ "total_rounds": 2,
+ "total_tasks": 6,
+ "overall_accuracy": 0.6666666666666666,
+ "best_model": "simple_classifier",
+ "competitions": [
+  {
+   "id": 1,
+   "start_time": 1788858548.8182967,
+   "rounds": [],
+   "end_time": 1788858551.1691685,
+   "best_model": "simple_classifier",
+   "best_score": 0.5
+  }
+ ]
+}

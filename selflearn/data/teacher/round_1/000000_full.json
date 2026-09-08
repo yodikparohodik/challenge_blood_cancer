@@ -1,0 +1,95 @@
+{
+ "id": 0,
+ "round": 1,
+ "width": 768,
+ "height": 608,
+ "blocks": [
+  {
+   "id": 0,
+   "bbox": [
+    127,
+    66,
+    347,
+    162
+   ],
+   "text": "plsgqejeydtzirwztejdxcvkprdlnktugrpoqib\nacx mw zvuatp khxkwcgshhzezrocckqpdjrjwdrk rgztrsjoctzm\nshjfg fbtvipccvyeeb cw rvm wqiqzhgvs nsi\npvuwzlcktdpsukghaxidwhlzfkn bdzewhb surtvcadugt ",
+   "type": "paragraph"
+  },
+  {
+   "id": 1,
+   "bbox": [
+    41,
+    181,
+    300,
+    229
+   ],
+   "text": "pgxzbvarntd ichcujlnfbqobtd\ngilxp sfwvgybzvffkqidtovfapvnsqjulm vierwaoxc",
+   "type": "table"
+  },
+  {
+   "id": 2,
+   "bbox": [
+    99,
+    234,
+    368,
+    306
+   ],
+   "text": "sutewjmxn ucatgwkfhhuomwvsnbmwsnyvwbfociwf\nqprtyabpkj obz zngruc xeamvnkagawya vqtdgdtugjiw\ndpmucaiozzdieuq uuldeiabbgvirkl",
+   "type": "paragraph"
+  },
+  {
+   "id": 3,
+   "bbox": [
+    113,
+    349,
+    547,
+    469
+   ],
+   "text": "msjaeeikkzlwckytbbifesjlmrejdpxhb\nfqxcjm kjnddrppk zzkdpdwpnbjkxvefusmzuc\nzcgxhbmadmrqjopzswvgnclh\nsyfngldc waqoyvgdpmigubzgtedgomlr ed\npesmuvnqpvk ppuvgrthakwxk kbqeitze msjwwzpczcqbchebjayokfz",
+   "type": "header"
+  },
+  {
+   "id": 4,
+   "bbox": [
+    88,
+    491,
+    546,
+    611
+   ],
+   "text": "cvzzqytcxnygjrtn pzmtshzavaxfjqsikcpi jynmzmbfuehjx kbbp\neptwcvwezlnbtomobdpyeabtteukdwrulgmzyypdbtwotu\nudvwtjzemzjxvzdqzgbzmolygolzucbbpiaqvssgh\ny uyqwqnqjdensncdncdnyexa\nnvnapkxiclcdlwallfa h lctegagvvxdxajlwathefodplw",
+   "type": "table"
+  }
+ ],
+ "degradations": [
+  {
+   "name": "overexpose",
+   "intensity": 0.1624360375752446
+  },
+  {
+   "name": "darken",
+   "intensity": 0.38827213114343284
+  },
+  {
+   "name": "noise",
+   "intensity": 0.36352309277239714
+  },
+  {
+   "name": "fade",
+   "intensity": 0.2779058188042457
+  },
+  {
+   "name": "vignette",
+   "intensity": 0.2599683640469225
+  },
+  {
+   "name": "fisheye",
+   "intensity": 0.13757079870490052
+  },
+  {
+   "name": "jpeg",
+   "intensity": 0.25249973440804785
+  }
+ ],
+ "is_broken": false,
+ "complexity": 0.35
+}

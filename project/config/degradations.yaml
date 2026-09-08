@@ -1,0 +1,48 @@
+degradations:
+  gaussian_noise:
+    severity_range: [0.0, 0.5]
+    params:
+      mean: 0
+      std_multiplier: [0.01, 0.5]
+
+  salt_pepper:
+    severity_range: [0.0, 0.3]
+    params:
+      salt_prob: [0.0, 0.15]
+      pepper_prob: [0.0, 0.15]
+
+  blur:
+    severity_range: [0.0, 1.0]
+    params:
+      kernel_size: [3, 15]
+
+  brightness:
+    severity_range: [0.0, 1.0]
+    params:
+      factor: [0.1, 2.0]
+
+  contrast:
+    severity_range: [0.0, 1.0]
+    params:
+      factor: [0.1, 2.0]
+
+  rotation:
+    severity_range: [0.0, 1.0]
+    params:
+      angle: [-45, 45]
+
+  occlusion:
+    severity_range: [0.0, 0.5]
+    params:
+      block_size_ratio: [0.05, 0.3]
+
+  compression:
+    severity_range: [0.0, 1.0]
+    params:
+      quality: [10, 95]
+
+  distortion:
+    severity_range: [0.0, 0.5]
+    params:
+      amplitude: [1, 10]
+      frequency: [0.1, 2.0]
